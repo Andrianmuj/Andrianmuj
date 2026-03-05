@@ -1,55 +1,49 @@
+# Welcome to my Github userpage
 
-<div id="header" align="center">
-  
-<h1>
- Application Lead - MIS
-</h1>
+I am Ands, an Application Lead and Software Developer with a background in Computer Engineering, focused primarily on backend systems and enterprise applications. I work extensively with legacy systems, system integrations, and process automation.
 
-<div align="center">
-  <img src="https://media.tenor.com/rePDfDWO3XoAAAAd/hacking.gif" width="600" height="300"/>
-</div>
+To reach me, you may connect with me through professional platforms or collaborate via GitHub.
 
-</div>
+Planning to pursue a master’s degree in Software Engineering or a related field to deepen my expertise in system architecture and scalable application design.
 
----
+Separate Github account for work use only: [@Andrianmuj](https://github.com/mujakzs)
 
-### :man_technologist: About Me :
-I work at KCC
+## Programming Languages
 
+`c#`, `Javascript`, `PL/SQL`, `SQL` and `c++`.
 
- 
+To learn more about: `DevOps & Cloud`
 
-## 📁 Projects
+## Frameworks
 
-<img align="right" src="https://th.bing.com/th/id/R.5529dca9b2b8d7de9f25e5694fcffe6e?rik=Bs06Gyx02u8Xag&riu=http%3a%2f%2f38.media.tumblr.com%2fa4b2397e42b82acc430dae0c71f2b74c%2ftumblr_n6clpfH9Xo1s96b9jo1_500.gif&ehk=cJmHZGQloTjV4MAmG9QlEFovqXjUk7J0ybisEOULRSU%3d&risl=&pid=ImgRaw&r=0" width="150px"/>
+- ASP.NET Core stack
+- Blazor ecosystem
+- Modern SPA stack (React + Vite + Tailwind)
+- Enterprise backend patterns (EF Core, Dapper, MediatR, SignalR)
 
-<p>HelLo World!</p>
+<details>
 
+<summary>Others</summary>
 
-### :hammer_and_wrench: Languages and Tools :
+### Other Frameworks
+- Razor Pages
+- ASP.NET Core MVC
+- ASP.NET Web API
+- MudBlazor
+- Fluent UI
+- Shadcn/UI
 
+### Architecture
+- Clean Architecture
+- Onion Architecture
+- Domain-Driven Design (DDD)
+- CQRS
 
-<div>
- 
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/blazor/blazor-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
- <img src="https://github.com/devicons/devicon/blob/master/icons/visualstudio/visualstudio-plain.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+### Other links
 
+WebProfile - <https://andrian-m-gultiano.vercel.app/>
 
- ---
+Linkin - <https://www.linkedin.com/in/andrian4/>
 
 
-
-
-
-
-<!-- <img src="https://i.pinimg.com/originals/dd/93/fc/dd93fc39de0f3ee0bcbb5e060c0baa7d.jpg" width="300" height="300"/> -->
+</details>
