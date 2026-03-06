@@ -6,7 +6,7 @@ To reach me, you may connect with me through professional platforms or collabora
 
 Planning to pursue a master’s degree in Software Engineering or a related field to deepen my expertise in system architecture and scalable application design.
 
-Separate Github account for work use only: [@mujakzs](https://github.com/mujakzs)
+Separate Github account for Personal use only: [@mujakzs](https://github.com/mujakzs)
 
 ## Programming Languages
 
