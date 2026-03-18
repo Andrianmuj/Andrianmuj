@@ -1,10 +1,10 @@
 # Welcome to my Github userpage
 
-I am Ands, an Application Lead and Software Developer with a background in Computer Engineering, focused primarily on backend systems and enterprise applications. I work extensively with legacy systems, system integrations, and process automation.
+I am Ands, an Application Lead and Software Developer with a background in Computer Engineering, focused primarily on backend systems and enterprise applications. I work with legacy systems, system integrations, and SAAS utility.
 
 To reach me, you may connect with me through professional platforms or collaborate via GitHub.
 
-Planning to pursue a master’s degree in Software Engineering or a related field to deepen my expertise in system architecture and scalable application design.
+Planning to pursue a master’s degree in Software Engineering or a related field to deepen my expertise in system architecture, database architecture and scalable application design.
 
 Separate Github account for Personal use only: [@mujakzs](https://github.com/mujakzs)
 
