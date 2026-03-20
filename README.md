@@ -8,6 +8,10 @@ Planning to pursue a master’s degree in Software Engineering or a related fiel
 
 Separate Github account for Personal use only: [@mujakzs](https://github.com/mujakzs)
 
+<details>
+
+<summary>Others</summary>
+
 ## Programming Languages
 
 `c#`, `Javascript`, `PL/SQL`, `SQL` and `c++`.
@@ -21,9 +25,7 @@ To learn more about: `DevOps & Cloud`
 - Modern SPA stack (React + Vite + Tailwind)
 - Enterprise backend patterns (EF Core, Dapper, MediatR, SignalR)
 
-<details>
 
-<summary>Others</summary>
 
 ### Other Frameworks
 - Razor Pages
